@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi I'm Vaibhav Sharma 👋
 
-<!--
-**vaibhav89000/vaibhav89000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Web Development projects and native apps
 - 🌱 I’m currently learning Node js and angular
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vaibhav89000@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Either you run the code or the code runs you
--->
+

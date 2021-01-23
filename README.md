@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node js and angular**
 
-- 💬 Ask me about **Web Development and scarping**
+- 💬 Ask me about **Web Development and scraping**
 
 - 📫 How to reach me **vaibhav89000@gmail.com**
 

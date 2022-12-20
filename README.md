@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav89000" alt="vaibhav89000" /></a> </p>
 
-- 🌱 I’m currently learning **Node js and angular**
+- 🌱 I’m working on **React js, Node js and angular**
 
 - 💬 Ask me about **Web Development and scraping**
 

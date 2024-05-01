@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Sharma</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav89000&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav89000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav89000" alt="vaibhav89000" /></a> </p>
 
-- 🌱 I’m working on **React js, Node js and angular**
+- 🌱 I’m working on **React js, Django and AWS**
 
-- 💬 Ask me about **Web Development and scraping**
+- 💬 Ask me about **Fullstack web development**
 
 - 📫 How to reach me **vaibhav89000@gmail.com**
 

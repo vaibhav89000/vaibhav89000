@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav89000" alt="vaibhav89000" /></a> </p>
 
-- 🌱 I’m working on **React js, Django and AWS**
+- 🌱 I’m working on **React js,Javascript, Django and AWS**
 
 - 💬 Ask me about **Fullstack web development**
 
